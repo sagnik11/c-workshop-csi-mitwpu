@@ -5,4 +5,4 @@ Feel free to reach out to me for any doubts in Languages like C, C++, Javascript
 
 In case you all need new questions that can be helpful for interviews or in any other languages, drop me an email at sagnik@worqhat.com or you can WhatsApp me at +91-9960806748
 
-The link to the presentation is here: 
+The link to the presentation is here: https://github.com/sagnik11/c-workshop-csi-mitwpu/blob/main/C%20Workshop%20Presentation.pdf
